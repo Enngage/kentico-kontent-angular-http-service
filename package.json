@@ -1,6 +1,6 @@
 {
   "name": "@kontent-ai/core-sdk-angular-http-service",
-  "version": "5.0.8",
+  "version": "6.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/kontent-ai/core-sdk-angular-http-service"
@@ -28,8 +28,8 @@
     "ts-lint:check": "tslint --project ./tsconfig.json"
   },
   "peerDependencies": {
-    "@angular/common": "^18.2.8",
-    "@angular/core": "^18.2.8",
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0",
     "@kontent-ai/core-sdk": "^10.8.0",
     "rxjs": "^7.8.1"
   },
